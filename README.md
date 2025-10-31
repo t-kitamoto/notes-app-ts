@@ -15,7 +15,7 @@
 ## 学習内容
 
 - JascriptのコードをTypescriptに変更
-- react-confirm-alertの使用しUX向上
+- react-confirm-alertを使用しUX向上
 - スタイルをモダン化
 
 ---
@@ -23,4 +23,5 @@
 ## 元教材
 
 Modern React From The Beginning　Learn React from the ground up along with modern environments such as React Router v7, TanStack, MERN, etc
+
 https://www.udemy.com/course/modern-react-from-the-beginning/?couponCode=PLOYALTY0923
