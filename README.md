@@ -1,8 +1,6 @@
 # Note App TS
 
-## このアプリは、「Modern React From The Beginning」をベースに作成した学習用のアプリです。
-
----
+このアプリは、「Modern React From The Beginning」をベースに作成した学習用のシンプルなノートアプリです。
 
 ## 使用技術
 
