@@ -14,7 +14,7 @@
   
 ## 学習内容
 
-- JascriptのコードをTypescriptに変更
+- JavascriptのコードをTypescriptに変更
 - react-confirm-alertを使用しUX向上
 - スタイルをモダン化
 
