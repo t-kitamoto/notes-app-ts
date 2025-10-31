@@ -22,4 +22,6 @@
 
 ## 元教材
 
-Modern React From The Beginning　Learn React from the ground up along with modern environments such as React Router v7, TanStack, MERN, etc（www.udemy.com/course/modern-react-from-the-beginning/?couponCode=PLOYALTY0923）
+Modern React From The Beginning　Learn React from the ground up along with modern environments such as React Router v7, TanStack, MERN, etc
+
+https://www.udemy.com/course/modern-react-from-the-beginning/?couponCode=PLOYALTY0923
